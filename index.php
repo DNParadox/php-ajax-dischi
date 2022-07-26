@@ -1,7 +1,5 @@
 <?php
- 
     include __DIR__  . '/database.php';
-    // var_dump($database);
 ?> 
 <!DOCTYPE html>
 <html lang="en">
@@ -26,17 +24,15 @@
                     <!-- Carta -->
                     <div class="card">
                         <figure>
-                         <img src="<?php echo $data_list['poster']; ?>" alt="<?php echo $data_list['author']; ?>" />
-                            <figcaption class="title">  <?php echo $data_list['title'] ?> </figcaption>
-                            <figcaption class="author">  <?php echo $data_list['author'] ?> </figcaption>
-                            <figcaption class="author">  <?php echo $data_list['year'] ?> </figcaption>
+                            <img src="<?php echo $data_list['poster']; ?>" alt="<?php echo $data_list['author']; ?>" />
+                                <figcaption class="title">  <?php echo $data_list['title'] ?> </figcaption>
+                                <figcaption class="author">  <?php echo $data_list['author'] ?> </figcaption>
+                                <figcaption class="author">  <?php echo $data_list['year'] ?> </figcaption>
                         </figure>
                     </div>
             </div>
-     
-                <?php } ?>
+            <?php } ?>
             </div>
-            
         </div>
     </main>
 </body>
