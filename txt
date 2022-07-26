@@ -1,0 +1,23 @@
+               <!-- Carta -->
+                    <div class="card">
+                        Tutt ngrippat
+                    </div>
+
+                    <!-- Carta -->
+                    <div class="card">
+                        Tutt ngrippat
+                    </div>
+
+                      <!-- Carta -->
+                      <div class="card">
+                        Tutt ngrippat
+                    </div>
+                    <!-- Carta -->
+                    <div class="card">
+                        Tutt ngrippat
+                    </div>
+                    
+                    <!-- Carta -->
+                    <div class="card">
+                        Tutt ngrippat
+                    </div>
